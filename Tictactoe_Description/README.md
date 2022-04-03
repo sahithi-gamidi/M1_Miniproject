@@ -1,0 +1,4 @@
+Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.It is the same noughts and crosses or the Xs and Os, the other names for Tic-Tac-Toe, you’ve played with paper and pencil. 
+This mini game project is written in C language in a very simple manner; it is complete and totally error-free.
+While making a Tic Tac Toe game using C language, it is important to make use of arrays. The Xs and Os are kept in different arrays, and they are passed between several functions in the code to keep track of how the game goes. With the code here you can play the game choosing either X or O against the computer.
+This has been done this way because it is just a console application without graphics designed in C language. The gotoxy function has been used to print text in any part of the screen.
